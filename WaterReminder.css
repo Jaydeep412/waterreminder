@@ -1,0 +1,38 @@
+.mainDiv{
+position: fixed;
+left: 50%;
+top: 35%;
+transform: translate(-50%, -50%);
+}
+
+.secondDiv{
+    margin-top: 40px;
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.thirdDiv{
+    margin-top: 80px;
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.fourthDiv{
+    margin-top: 120px;
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.fifthDiv{
+    margin-top: 160px;
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}

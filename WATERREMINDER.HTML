@@ -10,23 +10,23 @@
   
     <title>WaterReminder</title>
 </head>
-<body >
-
-    <button onclick="intervalStarter()" class="btn btn-info nav justify-content-center mainDiv">
+<body>
+<div >
+    <button onclick="intervalStarter()" class="btn nav justify-content-center mainDiv" id="startButton">
         Start your day
     </button> 
     
-    <label class="bg-info text-white nav justify-content-center secondDiv" >Glass : </label>
+    <label class="  nav justify-content-center secondDiv" id="glassLabel" >Glass : </label>
  
-    <label class="bg-info text-white nav justify-content-center thirdDiv" id="glassCount"></label> 
+    <label class=" nav justify-content-center thirdDiv" id="glassCount"></label> 
  
-    <button onclick="stopDay()" class="btn btn-info nav justify-content-center fourthDiv" >Stop your day</button>
+    <button onclick="stopDay()" class="btn nav justify-content-center fourthDiv" id="stopButton">Stop your day</button>
  
    
     <footer>   
     <label class="nav justify-content-center fifthDiv" id="about" > <a href="About.html">About</a></label>
     </footer>
-   
+</div>
    <script src="WaterReminder.js"></script>
 </body>
 </html>

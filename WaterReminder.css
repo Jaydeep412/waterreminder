@@ -3,17 +3,40 @@ position: fixed;
 left: 50%;
 top: 35%;
 transform: translate(-50%, -50%);
+font-size: 100px;
+}
+
+#startButton{
+    color: cyan;
 }
 
 .secondDiv{
     margin-top: 40px;
     position: fixed;
-    left: 50%;
+    left: 49%;
     top: 35%;
     transform: translate(-50%, -50%);
 }
 
+#glassLabel{
+    color: cyan;
+}
+
+
 .thirdDiv{
+    margin-top: 40px;
+    position: fixed;
+    left: 49%;
+    margin-left: 33px;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
+
+#glassCount{
+    color: cyan;
+}
+
+.fourthDiv{
     margin-top: 80px;
     position: fixed;
     left: 50%;
@@ -21,7 +44,11 @@ transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
 
-.fourthDiv{
+#stopButton{
+    color: cyan;
+}
+
+.fifthDiv{
     margin-top: 120px;
     position: fixed;
     left: 50%;
@@ -29,10 +56,19 @@ transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
 
-.fifthDiv{
-    margin-top: 160px;
-    position: fixed;
-    left: 50%;
-    top: 35%;
-    transform: translate(-50%, -50%);
+#aboutPara{
+    color: cyan;
 }
+
+  
+body {
+    background: url(logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100%;
+  }
+  
+  @keyframes example {
+   
+  }

@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<widget
+android-versioncode = '1'
+id= 'com.codewithjaydeep.Splash'
+version = '1.0.0'
+xmlns = 'https://www.w3.org/ns/widgets'>
+
+<name>Splash</name>
+<description>water reminder app</description>
+<author>codewithjaydeep</author>
+
+<preference name='orientation' value='portrait'/>
+</widget>

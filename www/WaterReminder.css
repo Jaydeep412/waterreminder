@@ -7,7 +7,7 @@ transform: translate(-50%, -50%);
 }
 
 #startButton{
-    color: cyan;
+    color: rgb(255, 255, 255);
 }
 
 .secondDiv{
@@ -19,7 +19,7 @@ transform: translate(-50%, -50%);
 }
 
 #glassLabel{
-    color: cyan;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -33,7 +33,7 @@ transform: translate(-50%, -50%);
 }
 
 #glassCount{
-    color: cyan;
+    color: rgb(255, 255, 255);
 }
 
 .fourthDiv{
@@ -45,7 +45,7 @@ transform: translate(-50%, -50%);
 }
 
 #stopButton{
-    color: cyan;
+    color: rgb(255, 255, 255);
 }
 
 .fifthDiv{
@@ -57,7 +57,7 @@ transform: translate(-50%, -50%);
 }
 
 #aboutPara{
-    color: cyan;
+    color: rgb(255, 255, 255);
 }
 
   
